@@ -6,7 +6,7 @@ import io
 # IP = "0.0.0.0"  # Escucha en todas las interfaces de red
 # PUERTO = 999 
 IP = "192.168.10.242" 
-PUERTO = 9000   # Cambia al puerto que usa el DVR
+PUERTO = 200   # Cambia al puerto que usa el DVR
 # PUERTO = 6602
 
 

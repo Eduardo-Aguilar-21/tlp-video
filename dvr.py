@@ -1,7 +1,7 @@
 import socket
 
 IP = "192.168.10.242"
-PUERTO = 9000
+PUERTO = 200
 BUFFER_SIZE = 4096
 
 comandos = {
